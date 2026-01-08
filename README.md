@@ -10,7 +10,7 @@ The project demonstrates how to handle **data management** efficiently using Spr
 - Create, read, update, and delete employee records
 - Track employee attendance
 - Calculate salary based on attendance
-- 
+  
 ## Tech Stack
 - Java, Spring Boot, Spring Data JPA
 - MySQL
